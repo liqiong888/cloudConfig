@@ -1,0 +1,2 @@
+config:
+  info: cloudConfig config-master.yml gitHub,version:1
